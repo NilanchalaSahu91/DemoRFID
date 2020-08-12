@@ -1,5 +1,7 @@
 {
   "name": "DemoRfid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
